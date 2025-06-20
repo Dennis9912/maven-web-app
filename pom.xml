@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Africaprocloud Nexus Releases Repository</name>
-	      <url>http://18.212.97.7:8081/repository/maven-releases/</url>
+	      <url>http://54.147.54.150:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
